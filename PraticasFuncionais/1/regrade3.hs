@@ -6,7 +6,7 @@ main = do
     putStrLn "entrada:"
     
     inputA <- getLine
-    let a = (read inputA)
+    let a = read inputA
     
     inputB <- getLine
     let b = read inputB
