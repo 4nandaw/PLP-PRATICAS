@@ -5,6 +5,7 @@ sublistas lista
     | (head lista) > (head (tail lista)) = 1 + sublistas (tail lista)
     | otherwise = 0 + sublistas (tail lista)
 
+
   
 main:: IO()
 main = do
