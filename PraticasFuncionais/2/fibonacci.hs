@@ -7,6 +7,7 @@ soma = sum . map (read . return) . show
 fib:: Integer -> Integer
 fib x = head $ filter (\a -> soma a == x) fibonacci
 
+
 main:: IO()
 main = do
     input <- getLine
