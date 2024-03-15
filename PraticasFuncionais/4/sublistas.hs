@@ -1,12 +1,11 @@
 sublistas:: [Int] -> Int
 sublistas [] = 0
 sublistas [_] = 0
-sublistas (h1:h2:t) =
-    if h1 < h2
-    then 1 + sublistas (h2:t)
-    else 0 + sublistas (h2:t)
+sublistas lista
+    | (head lista) > (head (tail lista)) = 1 + sublistas (tail lista)
+    | otherwise = 0 + sublistas (tail lista)
 
-
+  
 main:: IO()
 main = do
     input <- getLine
