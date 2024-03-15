@@ -6,7 +6,6 @@ sublistas lista
     | otherwise = 0 + sublistas (tail lista)
 
 
-  
 main:: IO()
 main = do
     input <- getLine
