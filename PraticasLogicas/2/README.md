@@ -7,18 +7,21 @@ ATENÇÃO: Você deve obrigatoriamente criar a regra de partida "main".
 
 Testes Públicos:
 
-Entrada:
-      main.
+    Entrada:
 
-      5.
+        main.
 
-Saida:
-      1
+        5.
 
-     4
 
-     9
+    Saida:
 
-     16
+        1
 
-     25
+        4
+
+        9
+
+        16
+
+        25

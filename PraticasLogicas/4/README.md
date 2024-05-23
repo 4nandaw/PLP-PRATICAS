@@ -13,9 +13,15 @@ ATENÇÃO: Você deve obrigatoriamente criar a regra de partida "main".
 
 Testes Públicos:
 
-Entrada:
+    Entrada:
+
         main.
+
         [2, 88, 33, 39, 92, 13, 27, 53, 97, 70, 37].
+        
         7.
-Saida:
-         [2, 88, 33, 39, 92, 13, -1, 53, -1, -1, -1]
+
+
+    Saida:
+
+        [2, 88, 33, 39, 92, 13, -1, 53, -1, -1, -1]

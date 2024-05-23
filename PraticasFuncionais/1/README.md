@@ -14,7 +14,6 @@ Faça um programa em Haskell que recebe os valores da tabela e encontra o valor 
 
 Teste Público:
 
-
 	entrada:
 
 		45
@@ -22,7 +21,6 @@ Teste Público:
 		12
 
 		63
-
 
 
 	saída:

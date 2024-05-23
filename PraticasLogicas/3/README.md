@@ -7,10 +7,15 @@ Para simplificar, assuma que os nomes serão escritos com letras minúsculas e s
 ATENÇÃO: Você deve obrigatoriamente criar a regra de partida "main".
 
 
-Testes Públicos:	 
-	 Entrada: 
-	     main.
-             ['marcio', 'junior', 'everton', 'maria', 'teobaldo', 'joao'].	
+Testes Públicos:
+
+	Entrada: 
+
+	    main.
+
+        ['marcio', 'junior', 'everton', 'maria', 'teobaldo', 'joao'].	
 		
-	  Saída: 
-             5
+
+	Saída: 
+
+        5

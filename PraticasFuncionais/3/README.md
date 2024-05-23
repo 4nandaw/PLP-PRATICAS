@@ -16,11 +16,12 @@ Onde X, Y, Z são, respectivamente, o número de mensurações abaixo de 80 km/h
 
 Teste Público:
 
-Entrada:
+    Entrada:
 
-      [55, 60, 80, 81, 88, 90]
+        [55, 60, 80, 81, 88, 90]
 
-Saída:	
+
+    Saída:	
         
        3 limite 
 

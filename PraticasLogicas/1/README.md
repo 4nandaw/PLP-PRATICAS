@@ -7,9 +7,15 @@ ATENÇÃO: Você deve obrigatoriamente criar a regra de partida "main".
 
 Testes Públicos:
 
-Entradas:
-    main.
-    55.
-    5.
-Saída:
-    5 eh ao mesmo tempo divisor e o ultimo digito de 55.
+    Entradas:
+
+        main.
+
+        55.
+        
+        5.
+
+
+    Saída:
+
+        5 eh ao mesmo tempo divisor e o ultimo digito de 55.

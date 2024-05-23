@@ -11,11 +11,13 @@ Obs: Considere que um número pode pertencer a apenas uma sublista crescente.
 
 
 Teste Público:
-Entrada:
+
+    Entrada:
 
         [1, 2, 3, 2, 4, 6, 1, 2, 3]
 
-Saída:
 
-       3
+    Saída:
+
+        3
 
